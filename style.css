@@ -1,3 +1,15 @@
 img {
-	height: 80px;
+	height: 150px;
+}
+
+h1 {
+	font-family: monospace;
+}
+
+p {
+	color: Black;
+}
+
+p {
+	font-family: cursive;
 }
