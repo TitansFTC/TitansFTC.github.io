@@ -1,13 +1,14 @@
 img {
-	height: 80px;
+	height: 130px;
 }
 
 img {
-	width: 1300px;
+	width: 130px;
 }
 
 h1 {
 	font-family: monospace;
+	font-size: 25px;
 }
 
 p {
